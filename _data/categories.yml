@@ -10,11 +10,11 @@
 -   name: Transporte
     slug: transporte
     icon: bus
--   name: Funcionários
-    slug: funcionários
+-   name: Servidores
+    slug: Servidores
     icon: users
--   name: Finanças
-    slug: finanças
+-   name: Financeiro
+    slug: Financeiro
     icon: usd
 -   name: Bibliotecas
     slug: bibliotecas
